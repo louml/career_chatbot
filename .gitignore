@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+#Secret files
+.env
+
+# Personal
+pseudocode.txt
+test_theme.py
+app_classifier.py
+classifier_prompt.md
+digitwin_prompt.py
